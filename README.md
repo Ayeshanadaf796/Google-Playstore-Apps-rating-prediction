@@ -24,6 +24,12 @@ This repository contains a  machine learning project that predicts app ratings f
  ## 📈 Dashboard
 👉 [View the Interactive Looker Studio Dashboard] (https://lookerstudio.google.com/s/sHq7JgIj8hs)
 
+## 📊 Key Insights
+- 📌 Categories with the most apps and installs  
+- ⭐ Average ratings across content ratings  
+- 💰 Price distribution of apps  
+- 📥 Trends in user reviews and installs  
+
 ##  Tools & Libraries
 - Python, Pandas, NumPy
 - Scikit-learn
