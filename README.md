@@ -4,7 +4,7 @@ This repository contains a  machine learning project that predicts app ratings f
 
 ## 🔎 Project Overview
 - **Dataset:** [/content/clean.csv]
-- 
+  
 - **Tools Used:**  
   - Python (Data Cleaning,Analysis and Prediction)  
   - SQL (BigQuery for querying)  
